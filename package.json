@@ -1,0 +1,16 @@
+{
+  "name": "hedgesats",
+  "version": "0.0.1",
+  "description": "Calls api to lightning exchange to hedge stats",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "starbackr builder",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "https": "^1.0.0",
+    "url": "^0.11.0"
+  }
+}
